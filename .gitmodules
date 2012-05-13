@@ -52,3 +52,6 @@
 [submodule "basefiles"]
 	path = basefiles
 	url = git://github.com/slbmeh/puppet-basefiles.git
+[submodule "fancyguy"]
+	path = fancyguy
+	url = git@bitbucket.org:slbmeh/puppet-fancyguy.git
