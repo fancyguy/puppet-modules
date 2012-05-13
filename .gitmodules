@@ -55,3 +55,6 @@
 [submodule "fancyguy"]
 	path = fancyguy
 	url = git@bitbucket.org:slbmeh/puppet-fancyguy.git
+[submodule "puppi"]
+	path = puppi
+	url = git://github.com/example42/puppi.git
