@@ -1,0 +1,54 @@
+[submodule "nsswitch"]
+	path = nsswitch
+	url = git://github.com/torian/puppet-nsswitch.git
+[submodule "pam"]
+	path = pam
+	url = git://github.com/torian/puppet-pam.git
+[submodule "ldap"]
+	path = ldap
+	url = git://github.com/slbmeh/puppet-ldap.git
+[submodule "wget"]
+	path = wget
+	url = git://github.com/example42/puppet-wget.git
+[submodule "puppet"]
+	path = puppet
+	url = git://github.com/example42/puppet-puppet.git
+[submodule "iptables"]
+	path = iptables
+	url = git://github.com/example42/puppet-iptables.git
+[submodule "ntp"]
+	path = ntp
+	url = git://github.com/example42/puppet-ntp.git
+[submodule "resolver"]
+	path = resolver
+	url = git://github.com/example42/puppet-resolver.git
+[submodule "apache"]
+	path = apache
+	url = git://github.com/example42/puppet-apache.git
+[submodule "monitor"]
+	path = monitor
+	url = git://github.com/example42/puppet-monitor.git
+[submodule "jenkins"]
+	path = jenkins
+	url = git://github.com/example42/puppet-jenkins.git
+[submodule "concat"]
+	path = concat
+	url = git://github.com/example42/puppet-concat.git
+[submodule "openssh"]
+	path = openssh
+	url = git://github.com/example42/puppet-openssh.git
+[submodule "nginx"]
+	path = nginx
+	url = git://github.com/example42/puppet-nginx.git
+[submodule "wordpress"]
+	path = wordpress
+	url = git://github.com/example42/puppet-wordpress.git
+[submodule "firewall"]
+	path = firewall
+	url = git://github.com/example42/puppet-firewall.git
+[submodule "tftp"]
+	path = tftp
+	url = git://github.com/example42/puppet-tftp.git
+[submodule "basefiles"]
+	path = basefiles
+	url = git://github.com/slbmeh/puppet-basefiles.git
