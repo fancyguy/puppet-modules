@@ -6,7 +6,7 @@
 	url = git://github.com/torian/puppet-pam.git
 [submodule "ldap"]
 	path = ldap
-	url = git://github.com/slbmeh/puppet-ldap.git
+	url = git@github.com:slbmeh/puppet-ldap.git
 [submodule "wget"]
 	path = wget
 	url = git://github.com/example42/puppet-wget.git
@@ -51,7 +51,7 @@
 	url = git://github.com/example42/puppet-tftp.git
 [submodule "basefiles"]
 	path = basefiles
-	url = git://github.com/slbmeh/puppet-basefiles.git
+	url = git@github.com:slbmeh/puppet-basefiles.git
 [submodule "fancyguy"]
 	path = fancyguy
 	url = git@bitbucket.org:slbmeh/puppet-fancyguy.git
